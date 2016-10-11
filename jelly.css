@@ -1,0 +1,158 @@
+.header {
+	color: #3a3a3a;
+	text-decoration: none;
+ 	padding: 1em;
+    overflow: hidden;
+    font-family: "nimbus-sans", sans-serif;
+    font-weight: 800;
+    line-height: 1;
+    font-size: 0.813rem
+}
+
+a {
+	text-decoration: none;
+}
+
+.navigation {
+	color: #3a3a3a;
+	margin: 1.45em 0 0;
+    display: inline;
+    padding-right: 20px;
+    margin-right: 0.875em;
+    margin-left: 2em;
+    letter-spacing: 0.03em;
+    word-spacing: 1.2em;
+    font-size: 13px;
+    float: right;
+    margin-top: 1.65em
+}
+
+
+.main {
+	font-size: 22px;
+	color: #3a3a3a;
+	display: block;
+	margin-left: 150px;
+	margin-right: 150px;
+	padding: 40px;
+	font-family: "leitura-news", serif;
+}
+
+
+.topLinks__item {
+	color: red;
+	font-size: 20px;
+}
+
+
+.topLinks {
+	word-spacing: .05em;
+	font-size: 16px;
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: rgb(200, 200, 200);
+	padding-bottom: 40px;
+
+}
+
+.project {
+	color: #3a3a3a;
+	display: flex;
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: rgb(200, 200, 200);
+	padding: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-family: "leitura-news", serif;
+    line-height: 1.6;
+    font-size: 22px;
+    align-items: center;
+}
+
+.project__description {
+	text-align: left;
+	display: block;
+	margin-left: 325px;
+	display: flex-end;
+	flex-direction: row;
+}
+
+.bottomLinks {
+	color: #3a3a3a;
+	font-family: "leitura-news", serif;
+	padding-top: 60px;
+	padding-bottom: 150px;
+    margin-left: 150px;
+    word-spacing: .05em;
+    font-size: 20px;
+}
+
+.article {
+	color: #3a3a3a;
+	display: flex;
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: rgb(200, 200, 200);
+	padding: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+	font-family: "leitura-news", serif;
+    line-height: 1.6;
+    font-size: 22px;
+    align-items: top;
+}
+
+.article__title {
+	text-align: left;
+	display: block;
+	margin-left: 75px;
+	display: flex-end;
+	flex-direction: row;
+	color: #3a3a3a;
+    background: #fff;
+    font-family: "leitura-news", serif;
+    line-height: 1.6;
+    font-size: 100%
+}
+
+.article__description {
+	align-content: flex-end;
+	display: block;
+	margin-left: 75px;
+	display: flex-end;
+	flex-direction: row;
+	color: #3a3a3a;
+    background: #fff;
+    font-family: "leitura-news", serif;
+    line-height: 1.6;
+    font-size: 100%
+}
+.bottomLink {
+	font-family: "nimbus-sans", sans-serif;
+	padding-top: 60px;
+	padding-bottom: 150px;
+    margin-left: 150px;
+    word-spacing: .05em;
+    font-size: 20px;
+}
+
+
+.footer {
+	color: #3a3a3a;
+	border-top: 0.1rem solid rgba(0, 0, 0, 0.2);
+}
+
+.footer__item {
+	display: block;
+    padding-top: 2em;
+    margin-top: 1em;
+    padding-bottom: 5em;
+    font-size: 13px;
+    font-family: "nimbus-sans", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    margin-right: 50px;
+    margin-left: 50px;
+
+}
