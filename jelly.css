@@ -1,6 +1,5 @@
 .header {
 	color: #3a3a3a;
-	text-decoration: none;
  	padding: 1em;
     overflow: hidden;
     font-family: "nimbus-sans", sans-serif;
@@ -12,6 +11,7 @@
 a {
 	text-decoration: none;
 }
+
 
 .navigation {
 	color: #3a3a3a;
@@ -70,6 +70,7 @@ a {
     align-items: center;
 }
 
+
 .project__description {
 	text-align: left;
 	display: block;
@@ -77,6 +78,7 @@ a {
 	display: flex-end;
 	flex-direction: row;
 }
+
 
 .bottomLinks {
 	color: #3a3a3a;
@@ -88,46 +90,44 @@ a {
     font-size: 20px;
 }
 
+
 .article {
+	flex-direction: column;
+	-webkit-flex-direction: row;
 	color: #3a3a3a;
-	display: flex;
 	border-bottom: solid;
 	border-width: 1px;
 	border-color: rgb(200, 200, 200);
 	padding: 20px;
-	margin-left: 150px;
-	margin-right: 150px;
+	margin-left: 200px;
+	margin-right: 200px;
 	font-family: "leitura-news", serif;
     line-height: 1.6;
-    font-size: 22px;
+    font-size: 18px;
     align-items: top;
+    overflow: hidden;
 }
+
 
 .article__title {
-	text-align: left;
-	display: block;
 	margin-left: 75px;
-	display: flex-end;
-	flex-direction: row;
 	color: #3a3a3a;
-    background: #fff;
     font-family: "leitura-news", serif;
     line-height: 1.6;
     font-size: 100%
 }
 
+
+
 .article__description {
-	align-content: flex-end;
-	display: block;
 	margin-left: 75px;
-	display: flex-end;
-	flex-direction: row;
 	color: #3a3a3a;
-    background: #fff;
     font-family: "leitura-news", serif;
     line-height: 1.6;
     font-size: 100%
 }
+
+
 .bottomLink {
 	font-family: "nimbus-sans", sans-serif;
 	padding-top: 60px;
@@ -143,6 +143,8 @@ a {
 	border-top: 0.1rem solid rgba(0, 0, 0, 0.2);
 }
 
+
+
 .footer__item {
 	display: block;
     padding-top: 2em;
@@ -154,5 +156,4 @@ a {
     letter-spacing: 0.02em;
     margin-right: 50px;
     margin-left: 50px;
-
 }
