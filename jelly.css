@@ -1,20 +1,23 @@
 .header {
-	color: #3a3a3a;
- 	padding: 1em;
-    overflow: hidden;
     font-family: "nimbus-sans", sans-serif;
     font-weight: 800;
     line-height: 1;
-    font-size: 0.813rem
 }
 
+.home__button{
+	width: 82px;
+	height: 82px;
+}
+
+.navigation__button {
+	color: #3a3a3a;
+}
 a {
 	text-decoration: none;
 }
 
 
 .navigation {
-	color: #3a3a3a;
 	margin: 1.45em 0 0;
     display: inline;
     padding-right: 20px;
@@ -25,6 +28,11 @@ a {
     font-size: 13px;
     float: right;
     margin-top: 1.65em
+}
+
+
+.pageLinks {
+	color: #EE4938;
 }
 
 
@@ -70,12 +78,15 @@ a {
     align-items: center;
 }
 
+.project__image {
+	width: 370px;
+	height: 325px;
+}
 
 .project__description {
 	text-align: left;
 	display: block;
 	margin-left: 325px;
-	display: flex-end;
 	flex-direction: row;
 }
 
@@ -88,6 +99,10 @@ a {
     margin-left: 150px;
     word-spacing: .05em;
     font-size: 20px;
+}
+
+.bottomLinks__item {
+	color: #EE4938;
 }
 
 
@@ -146,7 +161,8 @@ a {
 
 
 .footer__item {
-	display: block;
+	display: flex;
+	justify-content: space-between;
     padding-top: 2em;
     margin-top: 1em;
     padding-bottom: 5em;
@@ -156,4 +172,10 @@ a {
     letter-spacing: 0.02em;
     margin-right: 50px;
     margin-left: 50px;
+}
+
+.footer__itemImage{
+	width: 12px;
+	height: 12;
+
 }
