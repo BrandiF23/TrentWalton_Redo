@@ -107,10 +107,9 @@ a {
 
 
 .article {
-	flex-direction: column;
-	-webkit-flex-direction: row;
+	flex-direction: row;
 	color: #3a3a3a;
-	border-bottom: solid;
+	/*border-bottom: solid;*/
 	border-width: 1px;
 	border-color: rgb(200, 200, 200);
 	padding: 20px;
@@ -119,10 +118,14 @@ a {
 	font-family: "leitura-news", serif;
     line-height: 1.6;
     font-size: 18px;
-    align-items: top;
+    align-items: center;
     overflow: hidden;
 }
 
+.article__image {
+	display: flex;
+	justify-content: space-around;
+}
 
 .article__title {
 	margin-left: 75px;
@@ -150,6 +153,7 @@ a {
     margin-left: 150px;
     word-spacing: .05em;
     font-size: 20px;
+    color: #EE4938;
 }
 
 
@@ -161,8 +165,8 @@ a {
 
 
 .footer__item {
-	display: flex;
-	justify-content: space-between;
+	/*display: flex;*/
+	/*justify-content: space-between;*/
     padding-top: 2em;
     margin-top: 1em;
     padding-bottom: 5em;
@@ -176,6 +180,7 @@ a {
 
 .footer__itemImage{
 	width: 12px;
-	height: 12;
+	height: 12px;
+	color: #EE4938;
 
 }
