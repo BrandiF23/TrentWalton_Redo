@@ -35,6 +35,100 @@ a {
 	color: #EE4938;
 }
 
+.note, .comments, .comment-form {
+	margin: 100px 350px 0px 350px;
+}
+
+.note__title, .comments__count, .comment-form__title {
+	font-size: 50px;
+}
+
+
+.note__links {
+	margin: 0;
+	font-style: italic;
+	color: #888888;
+}
+
+.note__link {
+	color: #888888;
+	text-decoration: none;
+}
+
+.note p, .comments p {
+	font-size: 25px;
+}
+
+.note__body-link {
+	color: red;
+}
+
+.note__body-link:hover {
+	color: #888888;
+}
+
+.note__link:hover {
+	color: red;
+}
+
+.note__video-wrapper {
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 57%;
+}
+
+.note iframe {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}
+
+.comments__prompt {
+	margin: 15px 0;
+}
+
+.comments a {
+	color: red;
+}
+
+.comments a:hover {
+	color: #888888;
+}
+
+.comment-form__form {
+	margin-bottom: 150px;
+	font-size: 25px;
+}
+
+.comment-form__form-element-partial-width {
+	width: 40%;
+	padding: 5px;
+}
+
+.comment-form__form-element-entire-width {
+	width: 100%;
+	padding: 5px;
+}
+
+.comment-form__form-element-partial-width, 
+.comment-form__form-element-entire-width, 
+.comment-form__form input[type="submit"] {
+	font-size: 25px;
+	font-family: serif;
+}
+
+.comment-form__form input[type="submit"] {
+	color: white;
+	background-color: #000;
+	border: none;
+	padding: 15px;
+	width: 120px;
+}
+
+.comment-form__form input[type="submit"]:hover {
+	background-color: red;
+}
 
 .main {
 	font-size: 22px;
