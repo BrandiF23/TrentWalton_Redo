@@ -1,21 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Notes | Trent Walton's Web Site</title>
-	<link rel="stylesheet" type="text/css" href="jelly.css">
-</head>
-<body>
-
-<div class="header">
-	<a href="milk.html"><img class="home__button" src="photos/tw.png"></a>
-		<div class= navigation>
-			<a class="navigation__button" href="articles.html">ARTICELS</a>
-			<a class="navigation__button" href="notes.html">NOTES</a>
-			<a class="navigation__button" href="http://trentwalton.com/info">INFO</a>
-			<a class="navigation__button" href="http://trentwalton.com/search">SEARCH</a>
-		</div>
-</div>
-
+<?php include ('headTW.php'); ?>
 
 <div class="note">
 	<div class="note__title">The Marvel Symphonic Universe</div>
@@ -45,15 +28,4 @@
 </div>
 
 
-<div class="footer">
-		<div class="footer__item">
-			<img src="photos/twitter.png" style="width:12px;height:12px;"><a href="https://twitter.com/TrentWalton"><font color="EE4938">FOLLOW ME ON TWIITER</font></a>
-
-			<span style="float: right"><img src="photos/rss.png" style="width:12px; height:12px;"><a href="???"><font color="EE4938">RSS FEED</font></a></span>
-
-			<span style="float: right"><img src="photos/paravel.png" style="width:12px; height:12px;"><a href="http://paravelinc.com"><font color="EE4938">HIRE PARVEL</font></a></span>
-		</div>
-</div>
-
-</body>
-</html>
+<?php include ('footTW.php'); ?>
