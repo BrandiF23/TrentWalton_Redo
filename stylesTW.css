@@ -340,6 +340,11 @@ a {
 	display: flex;
 	justify-content: space-between;
 	padding: 20px;
+	font-size: 13px;
+    font-family: "nimbus-sans", sans-serif;
+    font-weight: 800;
+    letter-spacing: 0.02em;
+    color: #EE4938;
 }
 
 .footer a {
@@ -350,17 +355,10 @@ a {
 }
 
 .footer__item {
-	/*display: flex;*/
-	/*justify-content: space-between;*/
-    /*padding-top: 2em;
-    margin-top: 1em;*/
     font-size: 13px;
     font-family: "nimbus-sans", sans-serif;
     font-weight: 800;
     letter-spacing: 0.02em;
-    /*margin-right: 50px;
-    margin-left: 50px;*/
-    /*text-decoration: none;*/
 }
 
 .footer__itemImage {
