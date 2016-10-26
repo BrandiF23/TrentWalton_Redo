@@ -318,7 +318,7 @@ a {
 
 .footer__link {
 	display: flex;
-	margin-left: 330px;
+	/*margin-left: 300px;*/
 	padding-top: 20px;
 	padding-bottom: 150px;
 	font-family: "Arial", Gadget, sans-serif;
@@ -326,6 +326,9 @@ a {
 	font-size: 12px;
 	text-decoration: none;
 	color: #EE4938;
+	max-width: 44em;
+	margin: auto;
+	margin-bottom: 5em;
 }
 
 .footer__link:hover {
