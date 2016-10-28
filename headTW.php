@@ -16,7 +16,7 @@ function active($currect_page){
 	<title>Trent Walton | Trent Walton's Web Site</title>
 
 	<link rel="stylesheet" type="text/css" href="stylesTW.css">
-
+	<media name="viewport" content="width=device-width, initial-scal=1.0">
 </head>
 <body>
 

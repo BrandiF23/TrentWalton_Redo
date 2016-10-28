@@ -65,7 +65,7 @@
 				I was thrilled that <a href="https://typekit.com">Typekit</a> and <a href="http://www.mezzoblue.com/about/dave/">Dave Shea</a> asked me to contribute a theme to <a href="http://www.csszengarden.com/218/">CSS Zen Garden</a> to celebrate its recent responsive update. Read about the process <a href="http://blog.typekit.com/2013/11/26/typekits-second-css-zen-garden-theme-apothecary/">here</a> and <a href="http://trentwalton.com/2014/06/23/optimizing-images/">here</a>.
 			</p>
 	</div>
-</div>
+
 
 
 	<div class="bottomLinks">
