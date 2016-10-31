@@ -18,7 +18,7 @@
 				<img src="photos/atomic.png" class="article-block__image">
 		<ul class="article-block__title">
 				<li class="title">Atomic Classification</li>
-				<li class="post-info"><a href="?">Feb 26th, 2016</a>-<a href="?">12 Responses</a></li>
+				<li class="post-info"><a href="?">Feb 26th, 2016</a>
 		</ul>
 
 		</div>
@@ -33,7 +33,7 @@
 				<img src="photos/device-agnostic.png" class="article-block__image">
 			<ul class="article-block__title">
 				<li class="title">Device-Agnostic</li>
-				<li class="post-info"><a href="?">Mar 10th, 2014</a>-<a href="?">43 Responses</a></li>
+				<li class="post-info"><a href="?">Mar 10th, 2014</a>
 			</ul>
 			</div>
 			<p class="content">
@@ -48,7 +48,7 @@
 			
 			<ul class="article-block__title">
 				<li class="title">Work Life</li>
-				<li class="post-info"><a href="?">Dec 11th, 2013</a>-<a href="?">53 Responses</a></li>
+				<li class="post-info"><a href="?">Dec 11th, 2013</a>
 			</ul>
 		</div>
 			
@@ -64,7 +64,7 @@
 			
 			<ul class="article-block__title">
 				<li class="title">Human Interest</li>
-				<li class="post-info"><a href="?">aug 12th, 2013</a>-<a href="?">27 Responses</a></li>
+				<li class="post-info"><a href="?">aug 12th, 2013</a>
 			</ul>
 		</div>
 			
@@ -80,7 +80,7 @@
 			
 			<ul class="article-block__title">
 				<li class="title">Reorganization</li>
-				<li class="post-info"><a href="?">Apr 10th, 2013</a>-<a href="?">29 Responses</a></li>
+				<li class="post-info"><a href="?">Apr 10th, 2013</a>
 			</ul>
 		</div>
 			
@@ -96,7 +96,7 @@
 			
 			<ul class="article-block__title">
 				<li class="title">Where to Start</li>
-				<li class="post-info"><a href="?">Feb 7th, 2013</a>-<a href="?">50 Responses</a></li>
+				<li class="post-info"><a href="?">Feb 7th, 2013</a>
 			</ul>
 		</div>
 			
